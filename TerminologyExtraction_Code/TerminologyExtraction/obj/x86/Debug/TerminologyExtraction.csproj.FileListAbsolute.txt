@@ -1,0 +1,6 @@
+d:\Work\C#\TerminologyExtraction\TerminologyExtraction\bin\Debug\TerminologyExtraction.exe.config
+d:\Work\C#\TerminologyExtraction\TerminologyExtraction\bin\Debug\TerminologyExtraction.exe
+d:\Work\C#\TerminologyExtraction\TerminologyExtraction\bin\Debug\TerminologyExtraction.pdb
+d:\Work\C#\TerminologyExtraction\TerminologyExtraction\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Work\C#\TerminologyExtraction\TerminologyExtraction\obj\x86\Debug\TerminologyExtraction.exe
+d:\Work\C#\TerminologyExtraction\TerminologyExtraction\obj\x86\Debug\TerminologyExtraction.pdb
